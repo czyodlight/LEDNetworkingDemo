@@ -4,7 +4,7 @@
 #include <Blinker.h>
 #include <Adafruit_NeoPixel.h>
 
-char auth[] = "7fe522c0a2ce";
+char auth[] = "";
 char ssid[] = "kzkl";
 char pswd[] = "123456780";
 
